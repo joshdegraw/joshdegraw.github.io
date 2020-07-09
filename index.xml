@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josh DeGraw</title>
+    <link>https://joshdegraw.github.io/</link>
+    <description>Recent content on Josh DeGraw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Josh DeGraw</copyright>
+    <lastBuildDate>Thu, 09 Jul 2020 03:16:08 -0600</lastBuildDate>
+    
+	<atom:link href="https://joshdegraw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New website</title>
+      <link>https://joshdegraw.github.io/post/my-first-post/</link>
+      <pubDate>Thu, 09 Jul 2020 03:16:08 -0600</pubDate>
+      
+      <guid>https://joshdegraw.github.io/post/my-first-post/</guid>
+      <description>&lt;p&gt;Hopefully this website will both work as a portfolio and a way to light a fire under my ass to finish some projects.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
